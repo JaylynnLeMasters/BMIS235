@@ -1,0 +1,95 @@
+img		{border-color: transparent;
+margin: 10px;}
+
+table	{width: 65%;
+	margin-left: auto; 
+	margin-right: auto;
+	border-color: white;
+	border-style: ridge;
+	border-width: 10px;}
+
+.info_table {
+	background-color: white;}
+
+.menu	{text-align: center;
+		width: 60%;}
+
+	.menuicon {width: 11%;}
+
+	.menupipe {width: 1%;}
+
+th		{color: black; 
+		background-color: rgb(255, 217, 102);}
+	 
+td.bolder	{font-weight: bold;}
+
+caption	{caption-side: bottom;
+		font-style: italic;}
+
+.Page_view {
+	min-height: 100%;}
+
+html, body{
+	height: 100%;
+	margin: 0;}
+
+.bears_background {
+	background-image: url("bears.jpeg");
+	background-size: 100%;
+	background-position: center;}
+
+.hearts_background {
+	background-image: url("hearts.jpeg");
+	background-size: 100%;
+	background-position: center;}
+
+.purple_background {
+	background-image: url("purple.jpeg");
+	background-size: 100%;
+	background-position: center;}
+
+.sky_background {
+	background-image: url("sky.jpeg");
+	background-size: 100%;
+	background-position: center;}
+
+.flowers_background {
+	background-image: url("flowers.jpeg");
+	background-size: 100%;
+	background-position: center;}
+
+.butterfly_background {
+	background-image: url("butterfly.webp");
+	background-size: 100%;
+	background-position: center;}
+
+.floral_background {
+	background-image: url("floral.webp");
+	background-size: 100%;
+	background-position: center;}
+
+.stars_background {
+	background-image: url("stars.jpeg");
+	background-size: 100%;
+	background-position: center;}
+
+.index_content{
+	background-color: rgb(209, 206, 207);}
+
+.Jaylynn_content{
+	background-color: rgb(255, 185, 250);}
+
+.Mom_content{
+	background-color: rgb(216, 161, 249);}
+
+.Dad_content{
+	background-color: rgb(150, 182, 255);}
+
+.Jacob_content{
+	background-color: rgb(173, 253, 166);}
+
+.Antonia_content{
+	background-color: rgb(143, 247, 255);}
+
+.Alexandria_content{
+	background-color: rgb(180, 198, 231);}
